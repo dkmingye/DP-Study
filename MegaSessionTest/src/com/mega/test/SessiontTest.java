@@ -15,18 +15,15 @@ public class SessiontTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("hello...1");
-		oMegaApp=new MegaApplication();
-		System.out.println("hello...2");
+		// TODO Auto-generated method stub		
+		oMegaApp=new MegaApplication();		
 		oMegaApp.toolkit().setInteractiveMode("Batch");
-		MegaEnvironments cEnvironments = oMegaApp.getEnvironments();
-		System.out.println("hello");
+		MegaEnvironments cEnvironments = oMegaApp.getEnvironments();		
 		if (oMegaApp == null || oMegaApp.isEmpty()) {
 			
 			System.out.println("failed");			
 		} else {
-			System.out.println("connected app");
+			System.out.println("connected appxx");
 			
 		}
 		System.out.println("rererer");
