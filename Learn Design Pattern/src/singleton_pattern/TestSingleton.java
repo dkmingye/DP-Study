@@ -9,6 +9,7 @@ public class TestSingleton {
 
 	      //Get the only object available
 	      SingleObject object = SingleObject.getInstance();
+	      
 
 	      //show the message
 	      object.showMessage();
