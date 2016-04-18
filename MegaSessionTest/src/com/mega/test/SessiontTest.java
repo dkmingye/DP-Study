@@ -12,7 +12,7 @@ public class SessiontTest {
 	final static String environmentName="mytest2";
 	final static String repositoryName="mytest2";
 	/**
-	 * @param args test egit
+	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub		
