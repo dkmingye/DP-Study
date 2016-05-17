@@ -10,6 +10,7 @@ class Bicycle {
     public int cadence=33;
     public int gear=44;
     public int speed=55;
+    public int xxx=999;
         
     // the Bicycle class has one constructor
     public Bicycle(int startCadence, int startSpeed, int startGear) {
