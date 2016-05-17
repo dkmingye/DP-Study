@@ -3,7 +3,7 @@ package bike;
 //A subclass does not inherit the private members of its parent class. 
 //However, if the superclass has public or protected 
 //methods for accessing its private fields, 
-//these can also be used by the subclass.mmmmmm
+//these can also be used by the subclass.fff
 
 class Bicycle {
 	// the Bicycle class has three fields
